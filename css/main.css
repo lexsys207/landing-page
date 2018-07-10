@@ -1,0 +1,44 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background: url(../img/first-bg.jpg) no-repeat center top / cover;
+	height: 785px;
+}
+
+.container {
+	width: 930px;
+	margin: 0 auto;
+}
+
+.logo {
+	margin-top: 41px;
+	float: left;
+}
+
+nav {
+	float: right;
+}
+
+.menu {
+	margin: 0px;
+	padding: 0px;
+	display: block;
+}
+
+.menu li {
+	float: left;
+	display: block;	
+	margin-right: 41px;
+	margin-top: 45px;
+}
+
+.menu a {
+	color: #fff;
+	font-size: 14px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
